@@ -1,1 +1,2 @@
-# bbc-13-mapping-earthquakes
+# Module 13 - Earthquake Visualization
+This repository contains a demonstration of visualization of GeoJSON data on a map by using Leaflet and Mapbox.js. Each "Mapping_*" folder contains an example of mapping using different GeoJSON coordinate data types.  The Earthquake_Challenge folder displays earthquake data from the USGS on a map, using circles to indicate the magnitude of the earthquake.
